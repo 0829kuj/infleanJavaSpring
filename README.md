@@ -5,7 +5,7 @@ https://www.inflearn.com/course/%EC%8A%A4%ED%94%84%EB%A7%81-%ED%94%84%EB%A0%88%E
 
 강의 실습폴더 일람
 
-testProject
+1. testProject
 
 - maven 프로젝트
 - spring5
